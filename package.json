@@ -1,0 +1,19 @@
+{
+  "name": "berdachuk.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "berdachuk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ieiunium/berdachuk.js.git"
+  },
+  "author": "Kiryl Chepeleu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ieiunium/berdachuk.js/issues"
+  },
+  "homepage": "https://github.com/ieiunium/berdachuk.js#readme"
+}
